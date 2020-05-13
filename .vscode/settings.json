@@ -1,0 +1,10 @@
+{
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx",
+        "javascript": "html"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    // "editor.formatOnSave": true
+}
